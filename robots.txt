@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Pakillo/quarto-course-website-template/sitemap.xml
+Sitemap: https://github.com/crazyhottommy/charting_human_biology_using_AI/sitemap.xml

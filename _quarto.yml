@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "miniNeurIPS 2023 Workshop: Charting human biology using AI for Precision Health & Precision Medicine"
+  title: "2023 Workshop: Charting human biology using AI for Precision Health & Precision Medicine"
   sidebar:
     background: primary
     # logo: "images/logo.png"

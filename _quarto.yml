@@ -21,6 +21,8 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
+      - href: organizers.qmd
+        text: Orgnaizers
       - href: https://github.com/crazyhottommy/charting_human_biology_using_AI/discussions
         text: Forum
 

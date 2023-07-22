@@ -13,7 +13,9 @@ tools for PK/PD analysis, molecular imaging applications for neuroscience and on
 analysis of multi-omics data and generative modeling for de-novo compound design. She has run a
 company-wide Quantum Computing focus group bringing together internal and external colleagues.
 Ilknur also has been serving as a reviewer for the MICCAI conference.
-Matteo Aldeghi, PhD, Director of Machine Learning Research, Bayer, matteo.aldeghi@bayer.com
+
+### Matteo Aldeghi, PhD, Director of Machine Learning Research, Bayer, matteo.aldeghi@bayer.com
+
 Matteo is broadly interested in the development of computational approaches that can accelerate
 pharmaceutical R&D, especially the application of machine learning to the design of new therapies,
 from small-molecule drugs to biological therapies. He is also interested in leveraging large biological

@@ -56,7 +56,7 @@ Central to our methodology is the integration of AI, which enables the rational 
 
 ![](images/james.jpg){width=40%}
 
-[James Lindsay](https://www.linkedin.com/in/jamesrlindsay/) is the Director of Software Engineering in the Department of Data Science at the Dana-Farber Cancer Institute. He helps build software to facilitate precision cancer medicine such as automated clinical trial matching, clinical DNA sequencing and next generation digital pathology imaging. Additionally he helps build software for cancer genomics research including the cBioPortal.
+[Dr.James Lindsay](https://www.linkedin.com/in/jamesrlindsay/) is the Director of Software Engineering in the Department of Data Science at the Dana-Farber Cancer Institute. He helps build software to facilitate precision cancer medicine such as automated clinical trial matching, clinical DNA sequencing and next generation digital pathology imaging. Additionally he helps build software for cancer genomics research including the cBioPortal.
 
 **Talk title:** 
 

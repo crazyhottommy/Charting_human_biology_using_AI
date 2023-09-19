@@ -34,26 +34,26 @@ to development of more effective interventions specific to each subgroup.
 
 ### Confirmed keynote speakers 
 
-![](images/Shantanu.jpg){width=40%}
+![](images/Shantanu.jpg){width=30%}
 
 [Shantanu Singh, Ph.D.](https://www.linkedin.com/in/shntnu/), is a Senior Group Leader at the Broad Institute, where he serves as the co-head of the [Carpenter–Singh lab](https://carpenter-singh-lab.broadinstitute.org/). His lab is dedicated to discovering new disease therapies using cell imaging to advance our understanding of biological processes. He is passionate about bridging the gaps between rapidly developing fields in high-dimensional biology to address the significant challenges in improving human health.
 
 **Talk Title:** 
 
-Finding disease phenotypes and candidate therapeutics using images: Cell Painting
+**Finding disease phenotypes and candidate therapeutics using images: Cell Painting**
 
 
 **Abstract:**
 
 Cell morphology holds valuable information about the mechanisms and functions of cell structures, and microscopy has been instrumental in uncovering biological phenomena. However, images of cell structures contain more information than what meets the eye. With the advancements in image analysis and deep learning, this rich information can be captured and quantified to drive progress in basic biology research and drug discovery. Image-based profiling using fluorescence microscopy assays such as Cell Painting can reveal the impact of diseases, drugs, and genes on cells, uncover mechanisms of action for small molecules, identify disease-associated phenotypes, detect response to drugs, and predict biological impact and toxicity of compounds, among other applications. This is leading to a growing impact on the pharmaceutical industry as cell morphology becomes a powerful data source for systems biology alongside molecular omics readouts.
 
-![](images/xihao.png){width=40%}
+![](images/xihao.png){width=30%}
 
 [Dr. Sherlock Hu](https://www.linkedin.com/in/xihao-sherlock-hu/), the CIO of [GV20 Therapeutics](https://gv20oncotherapy.com/), earned his Ph.D. in Computer Science from the Chinese University of Hong Kong. He later pursued postdoctoral training in Prof. Shirley Liu's lab at Dana-Farber Cancer Institute and Harvard University. In 2019, he was named Parker Scholar by the Parker Institute for his innovative work in mining tumor-infiltrating B cell receptor repertoires. Dr. Hu's expertise in Computational Biology and Immunology underpins GV20's AI platform, enabling the deep learning-based de novo design of fully human functional antibodies. At GV20, Sherlock leads the bioinformatics and AI teams, spearheading AI-driven antibody drug design.
 
 **Talk Title:**
 
-AI for Target Identification and Antibody Discovery.
+**AI for Target Identification and Antibody Discovery**
 
 **Abstract:**
 
@@ -61,13 +61,13 @@ In cancer research, the exploration of innovative strategies for identifying the
 
 Central to our methodology is the integration of AI, which enables the rational discovery of cancer targets and functional antibodies. As an example, we present a first-in-class antibody drug that exhibits an excellent pre-clinical profile and is currently advancing through clinical trials. Our findings not only shed light on the intricate web of interactions within the tumor microenvironment but also underscore the viability of AI-driven strategies in addressing challenging issues in precision medicine.)
 
-![](images/james.jpg){width=40%}
+![](images/james.jpg){width=30%}
 
 [Dr.James Lindsay](https://www.linkedin.com/in/jamesrlindsay/) is the Director of Software Engineering in the Department of Data Science at the Dana-Farber Cancer Institute. He helps build software to facilitate precision cancer medicine such as automated clinical trial matching, clinical DNA sequencing and next generation digital pathology imaging. Additionally he helps build software for cancer genomics research including the cBioPortal.
 
 **Talk title:** 
 
-Leveraging artificial intelligence predictions of treatment change to time out reach for enrollment in precision medicine clinical trials.
+**Leveraging artificial intelligence predictions of treatment change to time out reach for enrollment in precision medicine clinical trials**
 
 **Abstract:**
 
@@ -75,7 +75,7 @@ MatchMiner is an open source platform for cancer precision medicine, supporting 
 
 ### Other confirmed speakers 
 
-![](images/etai.jpeg){width=40%}
+![](images/etai.jpeg){width=30%}
 
 [Dr.Etai Jacob](https://www.linkedin.com/in/etaijacob/) is the Senior Director, Head of Data Science and AI, Early Oncology at AstraZeneca.
 

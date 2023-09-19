@@ -10,7 +10,7 @@ Tentative schedule:
 |:---:|:-----------------------------------:|:--------------------------------------:|
 |  9am - 10am  | Registration and Coffee   |                   |
 |  10am - 11:15am  | Session 1. Understanding health and disease for Precision Health and Precision Medicine           |                     |
-|    | Keynote         | 45 mins |
+|    | Keynote: Finding disease phenotypes and candidate therapeutics using images: Cell Painting, Dr.Shantanu Singh         | 45 mins |
 |    | Talk 1              | 15 mins                |
 |    | Talk 2      | 15mins                 |
 |    | Coffee Break - refreshments will be provided | 15 mins |

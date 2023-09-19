@@ -1,6 +1,18 @@
 ---
-title: "Workshop: Charting human biology using AI for Precision Health & Precision Medicine"
+title: "Mini-conference: Charting human biology using AI for Precision Health & Precision Medicine"
 ---
+
+### Location
+
+238 Main Street, Cambridge, MA, 02139
+
+6th floor conference space where [Bayer](https://www.bayer.com/en/)’s office is located.
+
+### Time
+
+Nov 16th, 9am - 4:15pm
+
+### What is it about?
 
 The human biology is arguably one of the most precious complex systems in existence
 that is both multi-scale and highly dynamic in nature. Though a full understanding of such a system
@@ -18,3 +30,30 @@ In this workshop, we will focus on multi-omics technologies and corresponding no
 approaches to help build integrative models of the systems biology in order to understand the healthy
 state and transition into a disease state, and how that differs between subgroups of individuals leading
 to development of more effective interventions specific to each subgroup.
+
+
+### Confirmed keynote speakers 
+
+
+![](images/xihao.png)
+
+**Bio**
+
+Dr. Sherlock Hu, the CIO of [GV20 Therapeutics](https://gv20oncotherapy.com/), earned his Ph.D. in Computer Science from the Chinese University of Hong Kong. He later pursued postdoctoral training in Prof. Shirley Liu's lab at Dana-Farber Cancer Institute and Harvard University. In 2019, he was named Parker Scholar by the Parker Institute for his innovative work in mining tumor-infiltrating B cell receptor repertoires. Dr. Hu's expertise in Computational Biology and Immunology underpins GV20's AI platform, enabling the deep learning-based de novo design of fully human functional antibodies. At GV20, Sherlock leads the bioinformatics and AI teams, spearheading AI-driven antibody drug design.
+
+**Talk Title:**
+
+AI for Target Identification and Antibody Discovery.
+
+**Abstract:**
+
+In cancer research, the exploration of innovative strategies for identifying therapeutic targets and developing effective treatments remains paramount. This presentation delves into a novel approach that harnesses the power of artificial intelligence (AI) to revolutionize cancer therapeutics. By modeling the intricate landscape of antibody-antigen interactions within the tumor microenvironment, our research strives to uncover new treatments derived from patients' immune systems.
+
+Central to our methodology is the integration of AI, which enables the rational discovery of cancer targets and functional antibodies. As an example, we present a first-in-class antibody drug that exhibits an excellent pre-clinical profile and is currently advancing through clinical trials. Our findings not only shed light on the intricate web of interactions within the tumor microenvironment but also underscore the viability of AI-driven strategies in addressing challenging issues in precision medicine.)
+
+
+
+
+
+
+

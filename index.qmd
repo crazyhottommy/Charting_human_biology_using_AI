@@ -47,11 +47,6 @@ Finding disease phenotypes and candidate therapeutics using images: Cell Paintin
 
 Cell morphology holds valuable information about the mechanisms and functions of cell structures, and microscopy has been instrumental in uncovering biological phenomena. However, images of cell structures contain more information than what meets the eye. With the advancements in image analysis and deep learning, this rich information can be captured and quantified to drive progress in basic biology research and drug discovery. Image-based profiling using fluorescence microscopy assays such as Cell Painting can reveal the impact of diseases, drugs, and genes on cells, uncover mechanisms of action for small molecules, identify disease-associated phenotypes, detect response to drugs, and predict biological impact and toxicity of compounds, among other applications. This is leading to a growing impact on the pharmaceutical industry as cell morphology becomes a powerful data source for systems biology alongside molecular omics readouts.
 
-![](images/etai.jpeg){width=40%}
-
-[Dr.Etai Jacob](https://www.linkedin.com/in/etaijacob/) is the Senior Director, Head of Data Science and AI, Early Oncology at AstraZeneca.
-
-
 ![](images/xihao.png){width=40%}
 
 [Dr. Sherlock Hu](https://www.linkedin.com/in/xihao-sherlock-hu/), the CIO of [GV20 Therapeutics](https://gv20oncotherapy.com/), earned his Ph.D. in Computer Science from the Chinese University of Hong Kong. He later pursued postdoctoral training in Prof. Shirley Liu's lab at Dana-Farber Cancer Institute and Harvard University. In 2019, he was named Parker Scholar by the Parker Institute for his innovative work in mining tumor-infiltrating B cell receptor repertoires. Dr. Hu's expertise in Computational Biology and Immunology underpins GV20's AI platform, enabling the deep learning-based de novo design of fully human functional antibodies. At GV20, Sherlock leads the bioinformatics and AI teams, spearheading AI-driven antibody drug design.
@@ -79,6 +74,10 @@ Leveraging artificial intelligence predictions of treatment change to time out r
 MatchMiner is an open source platform for cancer precision medicine, supporting clinical trial enrollments at Dana-Farber Cancer Institute. Clinical trials in precision oncology frequently face challenges with patient enrollment, partly due to the difficulty of finding patients which simultaneously meet eligibility criteria and are ready to change treatment. To address these challenges we initiated a study using AI tools to assist in identifying the right time to alert a physician about patient eligibility.
 
 ### Other confirmed speakers 
+
+![](images/etai.jpeg){width=40%}
+
+[Dr.Etai Jacob](https://www.linkedin.com/in/etaijacob/) is the Senior Director, Head of Data Science and AI, Early Oncology at AstraZeneca.
 
 [John Gaspar](https://www.linkedin.com/in/john-gaspar-2241319b/) Data Science and Bioinformatics Team Lead at Merck.
 

@@ -34,6 +34,18 @@ to development of more effective interventions specific to each subgroup.
 
 ### Confirmed keynote speakers 
 
+![](images/Shantanu.jpg){width=40%}
+
+[Shantanu Singh, Ph.D.](https://www.linkedin.com/in/shntnu/), is a Senior Group Leader at the Broad Institute, where he serves as the co-head of the [Carpenter–Singh lab](https://carpenter-singh-lab.broadinstitute.org/). His lab is dedicated to discovering new disease therapies using cell imaging to advance our understanding of biological processes. He is passionate about bridging the gaps between rapidly developing fields in high-dimensional biology to address the significant challenges in improving human health.
+
+**Talk Title:** 
+
+Finding disease phenotypes and candidate therapeutics using images: Cell Painting
+
+
+**Abstract:**
+
+Cell morphology holds valuable information about the mechanisms and functions of cell structures, and microscopy has been instrumental in uncovering biological phenomena. However, images of cell structures contain more information than what meets the eye. With the advancements in image analysis and deep learning, this rich information can be captured and quantified to drive progress in basic biology research and drug discovery. Image-based profiling using fluorescence microscopy assays such as Cell Painting can reveal the impact of diseases, drugs, and genes on cells, uncover mechanisms of action for small molecules, identify disease-associated phenotypes, detect response to drugs, and predict biological impact and toxicity of compounds, among other applications. This is leading to a growing impact on the pharmaceutical industry as cell morphology becomes a powerful data source for systems biology alongside molecular omics readouts.
 
 ![](images/etai.jpeg){width=40%}
 
@@ -69,7 +81,6 @@ MatchMiner is an open source platform for cancer precision medicine, supporting 
 ### Other confirmed speakers 
 
 [John Gaspar](https://www.linkedin.com/in/john-gaspar-2241319b/) Data Science and Bioinformatics Team Lead at Merck.
- 
-[Shantanu Singh](https://www.linkedin.com/in/shntnu/) Principal Investigator and Sr. Group Leader at Broad Institute of MIT and Harvard.
+
 
 

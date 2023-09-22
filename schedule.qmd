@@ -8,21 +8,22 @@ Tentative schedule:
 
 |   Time  |                Session            |                             |
 |:---:|:-----------------------------------:|:--------------------------------------:|
-|  9am - 10am  | Registration and Coffee   |                   |
-|  10am - 11:15am  | Session 1. Understanding health and disease for Precision Health and Precision Medicine           |                     |
+|  8:30am - 9:15am | Registration and Coffee |               |
+|  9:15am - 9:45am  | Welcome and Overview of the Agenda   |                   |
+|  9:45am - 11:15am  | Session 1. Understanding health and disease for Precision Health and Precision Medicine           |                     |
 |    | Keynote: Finding disease phenotypes and candidate therapeutics using images: Cell Painting, Dr.Shantanu Singh         | 45 mins |
 |    | Talk 1              | 15 mins                |
 |    | Talk 2      | 15mins                 |
 |    | Coffee Break - refreshments will be provided | 15 mins |
-|  11:30am - 12:45pm  | Session 2. Designing Therapeutics for Precision Medicine| | 
+|  11:30am - 1pm  | Session 2. Designing Therapeutics for Precision Medicine| | 
 |    | Keynote: AI for Target Identification and Antibody Discovery, Dr. Sherlock Hu| 45 mins |
 |    | Talk 1              | 15 mins                |
 |    | Talk 2      | 15mins                 |
-| 12:45pm - 2pm  | Lunch Break -Poster and Networking Session at BRIC 6th floor (food will be provided)| |
-| 2pm - 3:15pm   | Session 3. Conducting Better Clinical Trials for Precision Medicine| |
+| 1 pm - 2pm  | Lunch Break -Poster and Networking Session at BRIC 6th floor (food will be provided)| |
+| 2pm - 3:30pm   | Session 3. Conducting Better Clinical Trials for Precision Medicine| |
 |    | Keynote:Leveraging artificial intelligence predictions of treatment change to time out reach for enrollment in precision medicine clinical trials, Dr.James Lindsay| 45 mins |
 |    | Talk 1              | 15 mins                |
 |    | Talk 2      | 15mins                 |
 |    | Coffee Break - refreshments will be provided (15 mins)| |
-| 3:30pm - 4:15pm| Session 4. Panel Discussion - Brainstorming on limitations of current approaches, next generation of ideas in precision health and precision medicine| |
+| 3:45pm - 4:15pm| Session 4. Panel Discussion - Brainstorming on limitations of current approaches, next generation of ideas in precision health and precision medicine| |
 | 4:15pm| End of the conference| |

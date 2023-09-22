@@ -30,38 +30,15 @@ workshop attended by approximately 120 academics and pharma industry professiona
 
 #### Ming Tommy Tang, PhD, Director of Computational Biology, Immunitas Therapeutics
 
-[Ming Tommy Tang](https://divingintogeneticsandgenomics.com/) is the Director of Computational Biology at [Immunitas Therapeutics](https://www.immunitastx.com/). At Immunitas, they employ a single-cell sequencing platform to dissect the biology of immune cells in human tumors. They use machine learning approaches to study single-cell RNA, single-cell TCR, and spatial transcriptome data for new target discovery. He is a computational biologist with extensive experience in genomics, epigenomics, and (single-cell) transcriptomics data. He has over ten years of computational biology experience and six years of wet lab experience. He uses R primarily for data wrangling and visualization in the [tidyverse](https://www.tidyverse.org/) ecosystem; he uses Python for writing [Snakemake](https://snakemake.readthedocs.io/en/stable/) workflows and reformatting data; he is a Unix geek learning shell tricks almost every month; he cares about reproducible research and open science. Prior to joining Immunitas, Tommy was at Dana-Farber Cancer Institute and Harvard University, where he led a team to analyze immune-oncology-related single-cell sequencing datasets and spearheaded an NIH-funded project called Cancer Immunological Data Commons (CIDC). More about him can be found at https://divingintogeneticsandgenomics.com/
-
-#### Antong Chen, PhD. Merck
-
-
-
-#### Agata Miezaniec, PhD, Senior Business Development Manager, Ardigen
-
-At Ardigen, [Agata’s](https://www.linkedin.com/in/agatamiezaniec/) interest is to identify research and business value in their collaborations in
-areas of Artificial intelligence and Bioinformatics in drug discovery to help advance therapeutic
-development and bring life-altering medicines to patients sooner. Her personal past research interests
-were focused on energy metabolism and epigenetics on a molecular level. During her scientific career,
-Agata have co-organized several research and project management-oriented workshops and events at
-universities.
-the names, affiliations, and email addresses of the organizers, with one-paragraph statements of their
-research interests, areas of expertise, and experience in organizing workshops and related events;
-please indicate what other workshops (if any) are concurrently being proposed by an organizer
+[Ming 'Tommy' Tang](https://divingintogeneticsandgenomics.com/) is the Director of Computational Biology at [Immunitas Therapeutics](https://www.immunitastx.com/). At Immunitas, they employ a single-cell sequencing platform to dissect the biology of immune cells in human tumors. They use machine learning approaches to study single-cell RNA, single-cell TCR, and spatial transcriptome data for new target discovery. He is a computational biologist with extensive experience in genomics, epigenomics, and (single-cell) transcriptomics data. He has over ten years of computational biology experience and six years of wet lab experience. He uses R primarily for data wrangling and visualization in the [tidyverse](https://www.tidyverse.org/) ecosystem; he uses Python for writing [Snakemake](https://snakemake.readthedocs.io/en/stable/) workflows and reformatting data; he is a Unix geek learning shell tricks almost every month; he cares about reproducible research and open science. Prior to joining Immunitas, Tommy was at Dana-Farber Cancer Institute and Harvard University, where he led a team to analyze immune-oncology-related single-cell sequencing datasets and spearheaded an NIH-funded project called Cancer Immunological Data Commons (CIDC). More about him can be found at https://divingintogeneticsandgenomics.com/
 
 
 ### Program Committee 
 
 The following colleagues will be part of the program committee
 
-#### Ardigen
-* Tomasz Jetka, Data Science, Ardigen  
-* Adriana Borowa, Data Science, Ardigen  
-* David Rymrczyk, Data Science, Ardigen  
+#### Ardigen 
+Agata Miezaniec, Tomasz Jetka 
 
-#### Bayer
-* Azeez Adebimpe, Applied Machine Learning, Bayer  
-* Adrien Bitton, Machine Learning Research, Bayer  
-* Andrew Branen, Applied Machine Learning, Bayer  
-* Farzaneh Nasirian, Applied Machine Learning, Bayer  
-* Marc Osterland, Applied Machine Learning, Bayer  
-* Sara Rahmati, Applied Machine Learning, Bayer  
+#### Bayer 
+Azeez Adebimpe, Adrien Bitton, Andrew Branen, Daniel Gusenleitner, Luis Muniz, Farzaneh Nasirian, Marc Osterland, Sara Rahmati

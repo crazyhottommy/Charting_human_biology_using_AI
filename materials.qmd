@@ -1,8 +1,39 @@
 ---
-title: "Course Materials"
+title: "CALL FOR POSTER PRESENTATIONS"
 ---
 
-[Datasets](data/)
+The human biology is arguably one of the most precious complex systems in existence
+that is both multi-scale and highly dynamic in nature. Though a full understanding of such a system eludes us at the present, modern medicine relies on sophisticated biosensors and data analytics methods. Generation of actionable insights into health and disease requires an interdisciplinary effort bringing together domain scientists and technologists.
 
-[Slides](slides/)
+With the unprecedented growth of available molecular assays (e.g. single cell m’omics, spatial omics, proteogenomics, and so on) and increasing availability of real world data, there is an essential need to develop methods and expertise in multi-omics analysis and integration, specially using ML/AI to bring together prior knowledge, disease biology and clinical data to actionable insights for drug discovery, diagnostics and prediction of response and resistance to treatments.
+
+In this workshop, we will focus on multi-omics technologies and corresponding novel analytics approaches to help build integrative models of the systems biology to understand the healthy state and transition into a disease state, and how that differs between subgroups of individuals leading to development of more effective interventions specific to each subgroup.
+
+### Topics of interest include but not limited to
+
+• Models unraveling biological networks generating actionable insights on perturbations and recovery mechanisms
+
+• Building patient digital twins
+
+• Novel methods for integrating multi-omics/multi-modality data to identify disease subtypes
+
+• Novel methods for target identification and validation using multi-omics/multi-modality data
+
+• Chemo-multi-omics approaches for drug discovery
+
+• Biomarker discovery
+
+• Explainability/Interpretability of the models
+
+• Mechanistic and Hybrid models
+
+• AI/ML powered drug discovery strategies utilizing human-centered bio-technologies alternative to animal studies
+
+• Limitations of AI/ML and where new biosensing tools are needed/developed (such as single cell transcriptomics versus spatial single cell transcriptomics)
+
+**Please send poster abstracts to : Ilknur.icke@bayer.com
+Registration: via email: Ilknur.icke@bayer.com (please specify affiliation)**
+
+This hybrid (in person and virtual) event is free of charge and open to public. However, space is limited for in person attendance.
+
 
